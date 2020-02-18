@@ -40,6 +40,11 @@ Minor features
 * Filters in the right sidebar of the admin changelist view now contains a link
   to clear all filters.
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
 :mod:`django.contrib.admindocs`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
